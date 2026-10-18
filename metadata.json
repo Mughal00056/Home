@@ -1,0 +1,6 @@
+{
+  "name": "Charry Store",
+  "description": "Premium fresh orchard cherries, gourmet cherry confections, and artisanal ruby cherry preserves with interactive cherry animations and red aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
